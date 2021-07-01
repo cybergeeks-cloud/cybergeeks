@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Cyber Geeks</title>
+   Cyber Geeks
 </head>
 <body>
-    <h1>1st test</h1>
+    <h1>Cyber Geeks</h1>
 </body>
 </html>
